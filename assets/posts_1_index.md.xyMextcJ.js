@@ -1,0 +1,1 @@
+import{_ as e,b as t,f as s}from"./chunks/framework.DYvp_Vyw.js";const f=JSON.parse('{"title":"文章详情","description":"","frontmatter":{"title":"文章详情"},"headers":[],"relativePath":"posts/1/index.md","filePath":"posts/1/index.md"}'),a={name:"posts/1/index.md"};function n(o,r,i,c,d,p){return s(),t("div")}const m=e(a,[["render",n]]);export{f as __pageData,m as default};

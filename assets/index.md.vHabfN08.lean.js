@@ -1,0 +1,1 @@
+import{_ as e,b as t,f as a}from"./chunks/framework.DYvp_Vyw.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"home":true},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"};function r(o,s,c,d,i,p){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
